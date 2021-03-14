@@ -1,39 +1,43 @@
 {
   "project_info": {
-    "project_number": "98274424957",
-    "firebase_url": "https://innova-ebce5.firebaseio.com",
-    "project_id": "innova-ebce5",
-    "storage_bucket": "innova-ebce5.appspot.com"
+    "project_number": "681609163700",
+    "project_id": "copay-innova",
+    "storage_bucket": "copay-innova.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:98274424957:android:13e8540525765b33",
+        "mobilesdk_app_id": "1:681609163700:android:059bcffdd7dd09efbff8e1",
         "android_client_info": {
-          "package_name": "com.innova.copay"
+          "package_name": "com.innovafoundation.copay"
         }
       },
       "oauth_client": [
         {
-          "client_id": "98274424957-39u44gsivkvfuaesv5tvb7vhrtbcomn5.apps.googleusercontent.com",
+          "client_id": "681609163700-n2kmuunernm84tl4lg0j48tmkn0ko793.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSuZBxImiElwZUuLZ8vitAccGJTcg2XB0"
+          "current_key": "AIzaSyCYMY97AI7_q4UZb1VfeOi6Zc6HbsKs3zU"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681609163700-n2kmuunernm84tl4lg0j48tmkn0ko793.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681609163700-ifi663iq30pj81gr9ok9vi1v8h5f4054.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innovafoundation.copay"
+              }
+            }
+          ]
         }
       }
     }

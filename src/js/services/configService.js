@@ -19,7 +19,7 @@ angular.module('copayApp.services').service('configService', function(storageSer
 
     download: {
       innova: {
-        url: 'https://github.com/innovacoin/copay-innova/releases/latest'
+        url: 'https://github.com/innova-foundation/innova/releases/latest'
       }
     },
 
